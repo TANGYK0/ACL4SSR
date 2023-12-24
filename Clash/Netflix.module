@@ -38,21 +38,21 @@ IP-CIDR,208.75.76.0/22,no-resolve,DIRECT
 
 
 [Host]
-*.fast.com = 3.0.176.80
-*.netflix.com = 3.0.176.80
-*.netflix.net = 3.0.176.80
-*.netflixdnstest0.com = 3.0.176.80
-*.netflixdnstest1.com = 3.0.176.80
-*.netflixdnstest2.com = 3.0.176.80
-*.netflixdnstest3.com = 3.0.176.80
-*.netflixdnstest4.com = 3.0.176.80
-*.netflixdnstest5.com = 3.0.176.80
-*.netflixdnstest6.com = 3.0.176.80
-*.netflixdnstest7.com = 3.0.176.80
-*.netflixdnstest8.com = 3.0.176.80
-*.netflixdnstest9.com = 3.0.176.80
-*.nflxext.com = 3.0.176.80
-*.nflximg.com = 3.0.176.80
-*.nflximg.net = 3.0.176.80
-*.nflxso.net = 3.0.176.80
-*.nflxvideo.net = 3.0.176.80
+*.fast.com = 103.152.34.236
+*.netflix.com = 103.152.34.236
+*.netflix.net = 103.152.34.236
+*.netflixdnstest0.com = 103.152.34.236
+*.netflixdnstest1.com = 103.152.34.236
+*.netflixdnstest2.com = 103.152.34.236
+*.netflixdnstest3.com = 103.152.34.236
+*.netflixdnstest4.com = 103.152.34.236
+*.netflixdnstest5.com = 103.152.34.236
+*.netflixdnstest6.com = 103.152.34.236
+*.netflixdnstest7.com = 103.152.34.236
+*.netflixdnstest8.com = 103.152.34.236
+*.netflixdnstest9.com = 103.152.34.236
+*.nflxext.com = 103.152.34.236
+*.nflximg.com = 103.152.34.236
+*.nflximg.net = 103.152.34.236
+*.nflxso.net = 103.152.34.236
+*.nflxvideo.net = 103.152.34.236
