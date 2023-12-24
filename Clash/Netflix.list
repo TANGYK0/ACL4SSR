@@ -33,3 +33,24 @@ IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
+
+
+[Host]
+*.fast.com = 3.0.176.80
+*.netflix.com = 3.0.176.80
+*.netflix.net = 3.0.176.80
+*.netflixdnstest0.com = 3.0.176.80
+*.netflixdnstest1.com = 3.0.176.80
+*.netflixdnstest2.com = 3.0.176.80
+*.netflixdnstest3.com = 3.0.176.80
+*.netflixdnstest4.com = 3.0.176.80
+*.netflixdnstest5.com = 3.0.176.80
+*.netflixdnstest6.com = 3.0.176.80
+*.netflixdnstest7.com = 3.0.176.80
+*.netflixdnstest8.com = 3.0.176.80
+*.netflixdnstest9.com = 3.0.176.80
+*.nflxext.com = 3.0.176.80
+*.nflximg.com = 3.0.176.80
+*.nflximg.net = 3.0.176.80
+*.nflxso.net = 3.0.176.80
+*.nflxvideo.net = 3.0.176.80
