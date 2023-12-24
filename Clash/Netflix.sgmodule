@@ -2,7 +2,6 @@
 #!desc=直连Netflix
 
 [Rule]
-USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
